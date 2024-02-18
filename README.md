@@ -1,4 +1,5 @@
 Data Science Aplicada ao Futebol
+
 Este repositório contém as atividades práticas realizadas no curso de Ciência de Dados aplicado ao Futebol. O objetivo dessas atividades é explorar diversos conceitos de análise de dados de futebol utilizando a linguagem de programação Python.
 
 Conteúdo
